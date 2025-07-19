@@ -1,6 +1,6 @@
 module.exports = {
-  SESSION_ID: "", // Put Session Id Here Inside "*"
-  OWNER_NUMBER: "263719647303", // Put Owner Number Here 
+  SESSION_ID: "SUBZERO-MD;;;HZ8XkRJY#LVfzagkk3QcT_dkV_YVPiAyrzsC7OhgZ6oMfXOet4Ug", // Put Session Id Here Inside "*"
+  OWNER_NUMBER: "2349058949810", // Put Owner Number Here 
   PREFIX: "." // Default Prefix You Can Change To .,*!?+-&%#@
 };
 
